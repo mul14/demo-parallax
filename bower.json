@@ -1,0 +1,25 @@
+{
+  "name": "demo-parallax",
+  "version": "0.0.1",
+  "authors": [
+    "Mulia Arifandy Nasution <mul14.net@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "normalize-css": "~2.1.3",
+    "jquery": "1.10.*",
+    "jquery.scrollTo": "*",
+    "jquery.localScroll": "*",
+    "skrollr": "*",
+    "skrollr-stylesheets": "*",
+    "skrollr-menu": "*",
+    "skrollr-ie": "*"
+  }
+}
